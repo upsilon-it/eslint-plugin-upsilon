@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-upsilon",
+  "version": "0.1.0",
+  "description": "Ember specific linting rules for ESLint",
+  "main": "index.js",
+  "repository": "upsilon-it/eslint-plugin-upsilon",
+  "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
+  "license": "MIT",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "lib"
+  ]
+}
