@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-upsilon",
+  "name": "@upsilon/eslint-plugin-ember",
   "version": "0.1.0",
   "description": "Ember specific linting rules for ESLint",
   "main": "index.js",
